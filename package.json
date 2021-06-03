@@ -1,0 +1,25 @@
+{
+  "name": "salesapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielAceti/SalesAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielAceti/SalesAPI/issues"
+  },
+  "homepage": "https://github.com/GabrielAceti/SalesAPI#readme",
+  "dependencies": {
+    "node": "^16.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
