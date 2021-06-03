@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/GabrielAceti/SalesAPI#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
+    "mongoose": "^5.12.12",
     "node": "^16.1.0"
   },
   "devDependencies": {
