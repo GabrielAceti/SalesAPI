@@ -7,6 +7,6 @@ routes.get('/sale', _SalesController.get);
 routes.get('/sale/:_id', _SalesController.show);
 routes.post('/sale', _SalesController.create);
 routes.delete('/sale/:_id', _SalesController.delete);
-routes.put('/sale/:id', _SalesController.updateOnde);
+routes.put('/sale/:_id', _SalesController.updateOnde);
 
 export default routes;
